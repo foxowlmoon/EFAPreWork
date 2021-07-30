@@ -1,0 +1,26 @@
+h3{
+    font-family: "Times New Roman";
+}
+.wrapper{
+    margin: 25px;
+
+}
+.css-classes 
+p{ 
+    font-size: 14px;
+    color: orange
+    
+
+}
+body{
+    background-color: lightgray;
+
+}
+
+.border-style a{
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+    border-width: 10px;
+
+}
